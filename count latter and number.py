@@ -1,34 +1,3 @@
-# number=input("enter the string")
-# list1=[]
-# list2=[]
-# letter1="abcdefghijklmnopqrstuvwxyz"
-# letter2="ABCDEFGHIJKLMNOPQRSTUVWXYZ"
-# count1=0
-# count2=0
-# i=0
-# while i<len(number):
-#     if number[i] in letter1 or number[i] in letter2:
-#         list1.append(number[i])
-#         # k=number[i]
-#         # print(k,end="")
-#         count1+=1
-#     else:
-#         list2.append(number[i])
-#         # m=number[i]
-#         # print(m,end="")
-#         # print(number[i])
-#         count2+=1
-#     i+=1
-# print(list1,"total letters:",count1)
-# print(list2,"total numbers:",count2)
-        
-        
-
-
-
-
-
-
 # a=(3,4,53,4,7,55,8,22,14,37)
 # i=0
 # x=0

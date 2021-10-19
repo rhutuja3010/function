@@ -6,4 +6,4 @@ def name(x,y):
     else:
         print(x)
         print(y)
-name("piyu","riyu")
+name("pra","rushu")

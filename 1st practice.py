@@ -19,24 +19,27 @@
 # addition (5,6)
 
 
-# 
-#
+
 
 # def add(a,b):
 #     c = a+b
 #     return c 
-# x=int(input("enter the 1st number"))
-# y=int(input("enter the 2nd number"))
+# x=int(input("enter the 1st number:" ))
+# y=int(input("enter the 2nd number:" ))
 # s=add(x,y)
 # print("addition=",s)
 
 
 
-# a="9"
-# b="3"
-# c=12
-# d=(int(a)*int(b))
-# print(str(c)*d)
+# def ad(a,b):
+#     # a=int(input("enter the number"))
+#     # b=int(input("enter teh number"))
+#     c=a+b
+#     print(c)
+# ad(3,7)
+
+
+
 
 
  

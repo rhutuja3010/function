@@ -1,5 +1,5 @@
 def showNumbers(limit):
-    i=0
+    i=1
     while i<=limit:
         if i%2==0:
             print("even:",i)

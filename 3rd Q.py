@@ -10,11 +10,12 @@
 # student()
 
 
-def isGreaterThen20(a,b):
-    a=20
-    b=30
-    print(a,b)
-isGreaterThen20(20,30)
+# def isGreaterThen20(a,b):
+#     sum=a+b
+#     print(sum)
+# isGreaterThen20(20,30)
+
+
     
 
 
